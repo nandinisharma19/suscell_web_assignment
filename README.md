@@ -13,4 +13,8 @@ Resources: AI for helping in writing the code, pngtree.com,magnific.com - for im
 #1-- For frontend i would use html,css,javascript-leaflet.js,react.js(for making UI more better.Would also use three.js,framer motion for animations to make it look attractive.  
 For backend I would use Firebase,python also used for backend.
 #2--the page will first land on IITB campus map , There will be a menu in side to select category(biogas plant, e-waste collection points, etc.). Data will be then retrieved from firebase and will be shown on the map with colored markers. One can also see all sustainable initiatives together. Also the markers will be reactive and when clicked or hovered on will show details like its images,timings of that initiave.   Data flow will be - firebase--> react(will arrange/filter the data)
--->leaflet.js(updates the markers on map)--> UI
+-->leaflet.js(updates the markers on map)--> UI.
+#3--The First Major step would bee collecting the data i.e. sustainability related initiatives accross the campus and fetching their exact coordinates using google maps. 
+This data will be then stored in firebase. The frontend would be then handled by react,javascript environment to make the platform interactive, it would be then integrated with leaflet.js to show the data on map. compatibility of platform for different devices will be ensured.
+the Platform will be then tested and deployed using any Cloud Deployment Platform like netlify,github etc.
+
