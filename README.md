@@ -4,3 +4,4 @@ I have added hover effect to the sustainability cell logo, nav bar links, and th
 I have also added moving clouds in the background of the website. Also I tried for adding animated moving grass at the bottom with wind mills rotating , but could not implement them .
 Also I tried to add some hover effect on the Earth which would then change to image of sustainable earth, but it could not be implemented properly so I removed that.
 #Languages used: HTML, CSS (for styling and animation).
+Resources: AI for helping in writing the code, pngtree.com,magnific.com - for images that i have used.
