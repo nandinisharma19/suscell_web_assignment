@@ -6,3 +6,11 @@ Also I tried to add some hover effect on the Earth which would then change to im
 #Languages used: HTML, CSS (for styling and animation).
 Resources: AI for helping in writing the code, pngtree.com,magnific.com - for images that i have used.
 # link address for my work: https://nandinisharma19.github.io/suscell_web_assignment/
+
+
+
+#Question-2
+#1-- For frontend i would use html,css,javascript-leaflet.js,react.js(for making UI more better.Would also use three.js,framer motion for animations to make it look attractive.  
+For backend I would use Firebase,python also used for backend.
+#2--the page will first land on IITB campus map , There will be a menu in side to select category(biogas plant, e-waste collection points, etc.). Data will be then retrieved from firebase and will be shown on the map with colored markers. One can also see all sustainable initiatives together. Also the markers will be reactive and when clicked or hovered on will show details like its images,timings of that initiave.   Data flow will be - firebase--> react(will arrange/filter the data)
+-->leaflet.js(updates the markers on map)--> UI
